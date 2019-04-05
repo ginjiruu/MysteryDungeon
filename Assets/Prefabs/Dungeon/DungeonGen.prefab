@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6231654823486714210
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6231654823486714236}
+  - component: {fileID: 6231654823486714211}
+  m_Layer: 0
+  m_Name: DungeonGen
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6231654823486714236
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6231654823486714210}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 513.3999, y: 175.22256, z: -5.8086815}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6231654823486714211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6231654823486714210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45c25c5c1dc64984b957da7717867f4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _dungeonWidth: 31
+  _dungeonHeight: 31
+  tilemap: {fileID: 0}
+  walls: {fileID: 11400000, guid: dd77057bf43530045ae4fbb1adbc663b, type: 2}
+  floors: {fileID: 11400000, guid: 7bc4d7d74061ff24ebd6f1a0f00a7dd3, type: 2}
+  roomFloor: {fileID: 11400000, guid: 6c74035336783dd42858723c50e7def3, type: 2}
+  _randomSeedOn: 0
+  _seed: 0
+  addMapToggle: 1
+  roomTries: 250
+  minRoomSize: 5
+  maxRoomSize: 8
+  randomTemplateCount: 100
+  wrinkledRoomProbability: 0
+  overlayCount: 5
+  overlayChance: 100
+  doors1x1Allowed: 1
+  doors2x2Allowed: 1
+  templateSheet: {fileID: 2800000, guid: 1cb4f3be08da1054c8c88a65724cc620, type: 3}
+  numRoomTries: 14
+  extraConnectorChance: 5
+  roomExtraSize: 4
+  windingPercent: 0
+  tryRoomsFirst: 1
+  streamLine: 1
+  roomManagers: []
+  _roomManagers: {fileID: 0}
+  offsetX: 23
+  offsetY: 23
+  scale: 0.1
+  threshold: 0.5
+  Neighbours: 4
+  CloseCellProb: 45
+  Iterations: 50000
+  LowerLimit: 16
+  UpperLimit: 500
+  EmptyNeighbours: 3
+  EmptyCellNeighbours: 4
+  Corridor_Min: 2
+  Corridor_Max: 5
+  Corridor_MaxTurns: 10
+  CorridorSpace: 2
+  BreakOut: 100000
+  mapImage: {fileID: 0}
+  mapTexture: {fileID: 0}
+  canvas: {fileID: 0}
+  showMap: 1
+  actorPosX: 0
+  actorPosY: 0

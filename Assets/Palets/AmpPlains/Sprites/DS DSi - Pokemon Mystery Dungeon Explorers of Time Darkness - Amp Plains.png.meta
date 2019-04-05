@@ -1,0 +1,4936 @@
+fileFormatVersion: 2
+guid: 284f4f6647d481b4190a91d8fad5bbfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5888735266943785342
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_3
+  - first:
+      213: -8123809126142651601
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_4
+  - first:
+      213: -8099580735044929363
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_5
+  - first:
+      213: -8505389340707100113
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_7
+  - first:
+      213: 2313946094390953345
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_10
+  - first:
+      213: -8686776529652559254
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_12
+  - first:
+      213: 7471004275571870541
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_13
+  - first:
+      213: 8709780092442507755
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_14
+  - first:
+      213: -9108508095088953003
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_24
+  - first:
+      213: -107279478326103352
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_25
+  - first:
+      213: -7318921169134797832
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_26
+  - first:
+      213: 2432317313594377057
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_27
+  - first:
+      213: 6908675992461324805
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_28
+  - first:
+      213: -1711740188722823414
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_29
+  - first:
+      213: 9191823795767430000
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_33
+  - first:
+      213: 4528794071153620954
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_34
+  - first:
+      213: 7652905209638795478
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_35
+  - first:
+      213: 5957314988304786963
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_36
+  - first:
+      213: -1386497903443177004
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_37
+  - first:
+      213: -8688169588637683041
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_38
+  - first:
+      213: -5183104994567381951
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_39
+  - first:
+      213: -2172828704243450117
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_40
+  - first:
+      213: 2819229918408429167
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_41
+  - first:
+      213: -2540152376432107
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_42
+  - first:
+      213: -2204197714201844699
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_43
+  - first:
+      213: 4849409268449202952
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_44
+  - first:
+      213: -5976517138667406306
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_46
+  - first:
+      213: -4956202267955148484
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_49
+  - first:
+      213: 5263971107109345823
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_52
+  - first:
+      213: -3485919616713858368
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_54
+  - first:
+      213: 1074805754606411083
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_55
+  - first:
+      213: 8500172093422794368
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_56
+  - first:
+      213: -8112592322483987511
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_57
+  - first:
+      213: 7887334023483647489
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_58
+  - first:
+      213: -6758558668459228210
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_59
+  - first:
+      213: -2344398290536565957
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_63
+  - first:
+      213: 7919242612237932073
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_64
+  - first:
+      213: 5538606185569800030
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_65
+  - first:
+      213: 105494582197922849
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_67
+  - first:
+      213: -7273683688310786833
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_70
+  - first:
+      213: 6226890072700399182
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_72
+  - first:
+      213: 2653411793320682391
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_73
+  - first:
+      213: -8783450985938040531
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_74
+  - first:
+      213: -3036805512008643425
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_84
+  - first:
+      213: 3922222135681515261
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_85
+  - first:
+      213: -2586192466907587754
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_86
+  - first:
+      213: -8646946213837491933
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_87
+  - first:
+      213: 2171064660995808090
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_88
+  - first:
+      213: -5621710098599683392
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_89
+  - first:
+      213: 321225656388373513
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_93
+  - first:
+      213: 3533396997218194767
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_94
+  - first:
+      213: -3871986056308473541
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_95
+  - first:
+      213: 6477949724107377524
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_102
+  - first:
+      213: 6129090049553010776
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_103
+  - first:
+      213: -4797717780324023882
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_104
+  - first:
+      213: 2683048189236191622
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_114
+  - first:
+      213: -1215434033862377863
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_115
+  - first:
+      213: 1509007282533103998
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_116
+  - first:
+      213: 1547948662924508996
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_117
+  - first:
+      213: -5764814268119834406
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_118
+  - first:
+      213: -169623341562198445
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_119
+  - first:
+      213: -3757157892715385644
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_123
+  - first:
+      213: -8873287894887501176
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_124
+  - first:
+      213: 7819373535636730755
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_132
+  - first:
+      213: 2080543139103438484
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_133
+  - first:
+      213: 3639346969504415029
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_144
+  - first:
+      213: 6172318993855779969
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_145
+  - first:
+      213: -6360174768456341945
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_147
+  - first:
+      213: -3982088390375994805
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_148
+  - first:
+      213: 3494001528922622379
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_153
+  - first:
+      213: -6217113385104851179
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_155
+  - first:
+      213: 3649062786302804895
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_162
+  - first:
+      213: -1943828805533768266
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_164
+  - first:
+      213: 3317821523958461075
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_174
+  - first:
+      213: -6172080610529958472
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_176
+  - first:
+      213: 3659410640023208331
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_177
+  - first:
+      213: 678123791427674739
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_179
+  - first:
+      213: -7257821053318699717
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_184
+  - first:
+      213: 2317591037514382544
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_193
+  - first:
+      213: -4056962730668336416
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_205
+  - first:
+      213: -7967992040151821232
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_208
+  - first:
+      213: 8031030218698951361
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_213
+  - first:
+      213: -5644426880073635371
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_214
+  - first:
+      213: 5826395209113162165
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_215
+  - first:
+      213: -5335286312528318291
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_222
+  - first:
+      213: 5052777005081526116
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_223
+  - first:
+      213: -72469489277896394
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_224
+  - first:
+      213: 6871584764822253140
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_234
+  - first:
+      213: 4422613620990940019
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_235
+  - first:
+      213: 1647853562968609285
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_236
+  - first:
+      213: -5165897748547933920
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_237
+  - first:
+      213: 6054236308642181580
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_238
+  - first:
+      213: 4411156874635200153
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_239
+  - first:
+      213: -7560009081078899177
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_244
+  - first:
+      213: -4336656393292938152
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_253
+  - first:
+      213: 119815620279444581
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_265
+  - first:
+      213: -8020403902072225451
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_268
+  - first:
+      213: -7498258740729924114
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_274
+  - first:
+      213: 515830363941454320
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_283
+  - first:
+      213: -3692342783766806218
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_295
+  - first:
+      213: -8170743688953182454
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_298
+  - first:
+      213: -107906848819394201
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_303
+  - first:
+      213: 7995436964235043765
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_305
+  - first:
+      213: 6279120498709883762
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_312
+  - first:
+      213: 2888883389056752412
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_314
+  - first:
+      213: -485744585025197410
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_324
+  - first:
+      213: 594707355652265110
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_326
+  - first:
+      213: 5703120801335645468
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_327
+  - first:
+      213: -7911043018810321982
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_329
+  - first:
+      213: 8656583124923316739
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_334
+  - first:
+      213: 6588913731068466172
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_343
+  - first:
+      213: -761849526787545269
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_355
+  - first:
+      213: -3324130358967530645
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_358
+  - first:
+      213: -444766524610624274
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_364
+  - first:
+      213: 6994344188244767881
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_373
+  - first:
+      213: -6693574986348560961
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_385
+  - first:
+      213: 2910340344480724903
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_388
+  - first:
+      213: -4401691782479128137
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_393
+  - first:
+      213: 8945686175930042623
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_395
+  - first:
+      213: 7448909806170983803
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_402
+  - first:
+      213: -338943462693069136
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_404
+  - first:
+      213: -8315137882907833046
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_414
+  - first:
+      213: 4814715752962306966
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_416
+  - first:
+      213: 2990839994289152277
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_417
+  - first:
+      213: -6237628251674334922
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_419
+  - first:
+      213: -5506349016759375816
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_424
+  - first:
+      213: 4065904341612942042
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_433
+  - first:
+      213: 6984787245729547605
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_445
+  - first:
+      213: 5305830830120753960
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_448
+  - first:
+      213: 5439665388765593040
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_453
+  - first:
+      213: 1518269339159689207
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_454
+  - first:
+      213: 391961647914844958
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_462
+  - first:
+      213: -5715267080047720980
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_463
+  - first:
+      213: -645243709634667738
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_474
+  - first:
+      213: -2743852963898074211
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_475
+  - first:
+      213: -4691353387159763351
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_477
+  - first:
+      213: 7560041266372661590
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_478
+  - first:
+      213: 6743070218142467034
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_483
+  - first:
+      213: -5688700235908673132
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_484
+  - first:
+      213: -2869585312448498539
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_492
+  - first:
+      213: 3165908078898379123
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_493
+  - first:
+      213: -3073897075356435318
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_504
+  - first:
+      213: 5281318991138876713
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_505
+  - first:
+      213: -5427639524269425885
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_507
+  - first:
+      213: 821690192031961617
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_508
+  - first:
+      213: 4187488239160464591
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_513
+  - first:
+      213: 1330764609038322699
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_514
+  - first:
+      213: -4641583381382311993
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_522
+  - first:
+      213: 2930613729009802499
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_523
+  - first:
+      213: -5920589138372285709
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_534
+  - first:
+      213: 6627720746514019293
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_535
+  - first:
+      213: -5420405053129253953
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_537
+  - first:
+      213: -5687404667750979191
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_538
+  - first:
+      213: -2851820957916826011
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_543
+  - first:
+      213: 6063712058759645354
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_544
+  - first:
+      213: 7221165636359009582
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_552
+  - first:
+      213: -8422444527991874260
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_553
+  - first:
+      213: 1538584406222231437
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_564
+  - first:
+      213: -5875488964484076479
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_565
+  - first:
+      213: 3089876297340746893
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_567
+  - first:
+      213: -4713283742909845916
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_568
+  - first:
+      213: 2869175936000265995
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_573
+  - first:
+      213: 6031882452968156389
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_574
+  - first:
+      213: 7194825625207129716
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_582
+  - first:
+      213: 3642086210136544462
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_583
+  - first:
+      213: 9126603613448634855
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_594
+  - first:
+      213: -8707797005866934803
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_595
+  - first:
+      213: -2756220860156436564
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_597
+  - first:
+      213: 5686541556992216342
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_598
+  - first:
+      213: -6121673123104192198
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_603
+  - first:
+      213: -6886306955374200844
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_604
+  - first:
+      213: 386488465788540178
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_612
+  - first:
+      213: 3969635149340577280
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_613
+  - first:
+      213: -5806015388226140942
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_624
+  - first:
+      213: 7382870783301330140
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_625
+  - first:
+      213: 1158610629214312412
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_627
+  - first:
+      213: -7254027808992605939
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_628
+  - first:
+      213: 3844945242969951633
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_633
+  - first:
+      213: -7572914740558157280
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_634
+  - first:
+      213: -1374393817418501978
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_642
+  - first:
+      213: 8762808172807328751
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_643
+  - first:
+      213: 6516775661508728482
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_654
+  - first:
+      213: 4210861270085642444
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_655
+  - first:
+      213: -5158345964582353948
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_657
+  - first:
+      213: -5780433531236572034
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_658
+  - first:
+      213: 1899587887960826183
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_663
+  - first:
+      213: 8609771575881802936
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_664
+  - first:
+      213: 5852095278905385226
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_672
+  - first:
+      213: -8227163169149822892
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_673
+  - first:
+      213: -6877251930831812814
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_684
+  - first:
+      213: 4303936263169936270
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_685
+  - first:
+      213: 6526335153987641853
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_687
+  - first:
+      213: -3300911738520849270
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_688
+  - first:
+      213: -4742371187074189776
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_693
+  - first:
+      213: -6044616501062242378
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_694
+  - first:
+      213: -5808890644188650401
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_702
+  - first:
+      213: 7892534821599132946
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_703
+  - first:
+      213: 523825805995999157
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_714
+  - first:
+      213: 1176866904396144165
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_715
+  - first:
+      213: -7471168745270155427
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_717
+  - first:
+      213: -1355054276199881500
+    second: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_718
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1d0d1759a357e4c80eb2622361564f
+      internalID: 5888735266943785342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905519c7d9f98ed4d9e40f8248113a19
+      internalID: -8123809126142651601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73040f17cc8c9e0468949b1ce1645814
+      internalID: -8099580735044929363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45369be865874284286d3a3146cfa592
+      internalID: -8505389340707100113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91e3c379ca9e83459c43511c63c3413
+      internalID: 2313946094390953345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_12
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4becb183e565f48b13126a12fc4e98
+      internalID: -8686776529652559254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595982bdf13a62439e3f0e214cbb28c
+      internalID: 7471004275571870541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0905728185eca7d42b407512c0aa0bdb
+      internalID: 8709780092442507755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_24
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5cdb92a8f4d884995c4fe812e4d9b5
+      internalID: -9108508095088953003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_25
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b619aa4e0d298c74c886895097038398
+      internalID: -107279478326103352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_26
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104bfba7383758442b8b6248b6f1c398
+      internalID: -7318921169134797832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cfaf927a1c8ed438258402e2f852b6
+      internalID: 2432317313594377057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_28
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb32c7ded7efcf4cbed96db28f2664c
+      internalID: 6908675992461324805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_29
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1304d4e016d2314418e67d9d04ebdf1a
+      internalID: -1711740188722823414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe88aa8fe6053a14cabc875089d61199
+      internalID: 9191823795767430000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f54198e7d3bdb0459589a4b1fce4c04
+      internalID: 4528794071153620954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9f1306548c7f43a140c976f5328ea
+      internalID: 7652905209638795478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_36
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439f47b4f867d24468a37cb8d069d5f2
+      internalID: 5957314988304786963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_37
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7f6c21f469ca6429d3f729cce78328
+      internalID: -1386497903443177004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5961f17e06a35d4f9dd8f2e48061494
+      internalID: -8688169588637683041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854b6e6bd4bc80e41987df9900c7e1a6
+      internalID: -5183104994567381951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29589e14e1c02864789bb9652aed2410
+      internalID: -2172828704243450117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_41
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dffa5169cd1e14dab6f794300f12f0
+      internalID: 2819229918408429167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341fbe489422d3245bc1d827d9b2d23b
+      internalID: -2540152376432107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_43
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5da4490aa8f81b499be465435c77c7f
+      internalID: -2204197714201844699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_44
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73fcdc6b19577d49bafd88266985f17
+      internalID: 4849409268449202952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_46
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7e96ba33cf7314fb2ab82e29c2c1a1
+      internalID: -5976517138667406306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_49
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5460120b767024db17933da20bac1b
+      internalID: -4956202267955148484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_52
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720adeacdedeaa549b84c5e5a8e02052
+      internalID: 5263971107109345823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_54
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca7dca8199218c4b983f557cf2955b1
+      internalID: -3485919616713858368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_55
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fe33fbc26b6f14f9e0539a2975c630
+      internalID: 1074805754606411083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_56
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24be8e11dda1aa04d870dcc1010f027d
+      internalID: 8500172093422794368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_57
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27672bceb46f66499154b86c9070071
+      internalID: -8112592322483987511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_58
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8748e0f1e1dcd3b4eb069a22bf685311
+      internalID: 7887334023483647489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_59
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 551
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ea0ef2c00ef6b4485ab45a67c64424
+      internalID: -6758558668459228210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_63
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d9a1792c7326f45a3533197672c45b
+      internalID: -2344398290536565957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_64
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc7b6240e83c624bbd942d38a1fc0a2
+      internalID: 7919242612237932073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b7b8e8184073d488b4eec64eb93714
+      internalID: 5538606185569800030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_67
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7e67e85d4aca543a829205e13ebebe
+      internalID: 105494582197922849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_70
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6318f3b3bda0fad4eb225bf1c7f688e0
+      internalID: -7273683688310786833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_72
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d823c51851610941a2dce689af050dd
+      internalID: 6226890072700399182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_73
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ca16340d1372d48ab0c1788f2f183d
+      internalID: 2653411793320682391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_74
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd660200af571ba4caaa7c084f9d901b
+      internalID: -8783450985938040531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_84
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e08598cda8cfbe4db8daed8eaf2b425
+      internalID: -3036805512008643425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_85
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87402163272e18b44a9e9f95d2c5cebb
+      internalID: 3922222135681515261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_86
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933bee3ae0e3194469bfb8f9548378bb
+      internalID: -2586192466907587754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_87
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4b39cdb1fac604db67c7f84e8e61e8
+      internalID: -8646946213837491933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_88
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78de624ecdeea1348b2d95297eec28ac
+      internalID: 2171064660995808090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_89
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 526
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dabe508a8dcb8441a5624056f0414a8
+      internalID: -5621710098599683392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_93
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 501
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e17533db6a9e9c4ca5ace4f5817bce3
+      internalID: 321225656388373513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 501
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac04279f02b380742a099c735030664a
+      internalID: 3533396997218194767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 501
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc258bec37d06644ea3267259bbe8f6b
+      internalID: -3871986056308473541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_102
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 501
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e7f4b022ce9a64d941e1de9123c92b
+      internalID: 6477949724107377524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_103
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 501
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726a55ecae2e8cb4ba2f437c5c2f47b9
+      internalID: 6129090049553010776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_104
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 501
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ee9b02448535c4ab32619cd60b3d2b
+      internalID: -4797717780324023882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_114
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 501
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1df4ed37c4ae7488b4b0bcd2687bb1
+      internalID: 2683048189236191622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_115
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 501
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7a9b6971044fa41a5387f663ba3206
+      internalID: -1215434033862377863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_116
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 501
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bcb7e155f8afc428f7145fd19fb190
+      internalID: 1509007282533103998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_117
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 501
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51ca8bb4d726f4438e56e7dd0f4850a
+      internalID: 1547948662924508996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_118
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 501
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14d9f59bb632cf458558d3f0c89c3b5
+      internalID: -5764814268119834406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_119
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 501
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19596329f5619ef4bb386afd72321bfd
+      internalID: -169623341562198445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_123
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 476
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416475c0c669f5344b5fdfe38660a874
+      internalID: -3757157892715385644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_124
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 476
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a94fce4a6b5c144a0a321d20444cac
+      internalID: -8873287894887501176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_132
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 476
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d37ae31d167a5644afb4ef2f1775a4c
+      internalID: 7819373535636730755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_133
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 476
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bae9357b468f340a2ed939b610a8e4
+      internalID: 2080543139103438484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_144
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 476
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abcbc9a7ad72874d9fdb25b47aa27e0
+      internalID: 3639346969504415029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_145
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 476
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc20e1b49f689df4a8d4e1f4f30a645b
+      internalID: 6172318993855779969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_147
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 476
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adeaf964bae9cc4b83bb761fe8b5941
+      internalID: -6360174768456341945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_148
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 476
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30ffc3116042d94fac4fa3501e91579
+      internalID: -3982088390375994805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_153
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 451
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35640f0e1480b5a47903a62e4d8a2a4f
+      internalID: 3494001528922622379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 451
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12f5530368113a4785b089bddbb7b66
+      internalID: -6217113385104851179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_162
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 451
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343b92d747b94b64d95a723264f65548
+      internalID: 3649062786302804895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_164
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 451
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4cc64e1446419418c2dab07b7945e3
+      internalID: -1943828805533768266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_174
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 451
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8f6559c0814b54386312af9e509309
+      internalID: 3317821523958461075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_176
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 451
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2040db58d90fee4bb73a19a0a71ecdb
+      internalID: -6172080610529958472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_177
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 451
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4290585a65397bd4982b577f3d6f595b
+      internalID: 3659410640023208331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_179
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 451
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39755902c74e2674ba52a4b9cffac6c8
+      internalID: 678123791427674739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_184
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 426
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc36d68c710400d478642ad99f09ee9f
+      internalID: -7257821053318699717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_193
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 426
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fa5046d3d1f3a4fb9be5d70124e752
+      internalID: 2317591037514382544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_205
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 426
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ce8275489f90b49933e2173c4a59a6
+      internalID: -4056962730668336416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_208
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 426
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e5bd8643ee43c4898c525f2a835a9f
+      internalID: -7967992040151821232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_213
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 401
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759d53f9278f4cc49b05a9a98102b241
+      internalID: 8031030218698951361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_214
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 401
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558a008b9ca91ac47a412e441e61a7e7
+      internalID: -5644426880073635371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_215
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 401
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496ffd15ff501f1479045b6537cd5c9c
+      internalID: 5826395209113162165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_222
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 401
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aeb1995d2d37b4da5bead395631a37
+      internalID: -5335286312528318291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_223
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 401
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5a4d79c8665a24db53f415879ff22a
+      internalID: 5052777005081526116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_224
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 401
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8371b47b8025974690a61424f68a13a
+      internalID: -72469489277896394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_234
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 401
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5c69dd1794f91459d5c6c96dd78aff
+      internalID: 6871584764822253140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_235
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 401
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11ce74ee7bdb6441b08f6187ce873be
+      internalID: 4422613620990940019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_236
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 401
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2454040bccf72bf4397de6c26796de6b
+      internalID: 1647853562968609285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_237
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 401
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816d536aa8c8dab4b9263b588321d30c
+      internalID: -5165897748547933920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_238
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 401
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd802a6c8da52d44a4e3d709b756cb0
+      internalID: 6054236308642181580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_239
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 401
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e45416929162746bf8ed9453b24fe2
+      internalID: 4411156874635200153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_244
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 376
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe22d824a1109f34e99c12f26a3fd89a
+      internalID: -7560009081078899177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_253
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 376
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ef7e64827b5b4084c4657fc1c1136
+      internalID: -4336656393292938152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_265
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 376
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e56bda64b28b41a1d149a33e2ea03
+      internalID: 119815620279444581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_268
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 376
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc17ee31f17cfd4bb3f746b7efe5fbc
+      internalID: -8020403902072225451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_274
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 351
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e786d075b59c847970b37935801f17
+      internalID: -7498258740729924114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_283
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 351
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864c8081d01b464ab1990b8f2cac7f4
+      internalID: 515830363941454320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_295
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 351
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f912b532ad96a429d41f91f792be8a
+      internalID: -3692342783766806218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_298
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 351
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fa5d1abe2995c4b87e8e64db139260
+      internalID: -8170743688953182454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_303
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 326
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5252744f4578247bd67ec22af7ba8f
+      internalID: -107906848819394201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_305
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 326
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afefba7f691a60c42992d9b8b2a0554a
+      internalID: 7995436964235043765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_312
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 326
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93026905f347c4543823ad340e089170
+      internalID: 6279120498709883762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_314
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 326
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dac28d18624f045aead49fbcaca7b6
+      internalID: 2888883389056752412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_324
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 326
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26157fd66907d9241b3d4f23f04dacd3
+      internalID: -485744585025197410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_326
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 326
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21399af5b3d00a40a744f995c58cc9a
+      internalID: 594707355652265110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_327
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 326
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3830eb74869a13d489effa378bef4c52
+      internalID: 5703120801335645468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_329
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 326
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c14473226644d34f9fa25f1ed282b69
+      internalID: -7911043018810321982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_334
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 301
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1bffb3a5ffeef4aaaf48b5db56ae61
+      internalID: 8656583124923316739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_343
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 301
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b501d6e3794c0d4093c81aa71fb5c74
+      internalID: 6588913731068466172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_355
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 301
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c161ed4a23a3e43a09681764025017
+      internalID: -761849526787545269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_358
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 301
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680388ec0786d6740bec30fdb9d83261
+      internalID: -3324130358967530645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_364
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 276
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cfbfa64946b7749a8aa49cf4ed339e
+      internalID: -444766524610624274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_373
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 276
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8059697d24526d745bce0d7f84722381
+      internalID: 6994344188244767881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_385
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 276
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d01e7c97c07aa4f9680c350d222798
+      internalID: -6693574986348560961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_388
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 276
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e2fac8eb3e1c49bd1e2ca74f9c704
+      internalID: 2910340344480724903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_393
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 251
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4b0561ac8eb55488106fa173d8aa54
+      internalID: -4401691782479128137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_395
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 251
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881389346dde3b144873f4389cc1fbe6
+      internalID: 8945686175930042623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_402
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 251
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0cef80f826aac4f89878d69c4ca6d9
+      internalID: 7448909806170983803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_404
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 251
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e3156a4718fd46b58b1e183580275
+      internalID: -338943462693069136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_414
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 251
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6627faf0f8371a241a45d149699faf51
+      internalID: -8315137882907833046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_416
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 251
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3ef762f9affb44d80c0145873669f7
+      internalID: 4814715752962306966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_417
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 251
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb15c1138a0d21442b5079750b7e0a47
+      internalID: 2990839994289152277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_419
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 251
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec436108a20c20428c45f2a79b49e5a
+      internalID: -6237628251674334922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_424
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 226
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9ec6e07bcf5a45afae86ae0a04beb
+      internalID: -5506349016759375816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_433
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 226
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8908b797b19e3a84ab01a02bcd66a8a9
+      internalID: 4065904341612942042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_445
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 226
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110352646c69df04fb2674785d731b8c
+      internalID: 6984787245729547605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_448
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 226
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14986ca2c03660f41bf0f5940f4fd1a2
+      internalID: 5305830830120753960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_453
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 201
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceded57449558fe4daec28d0d1034d14
+      internalID: 5439665388765593040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_454
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 201
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd681c3e12b5a4ca835ff6a6aa3a63
+      internalID: 1518269339159689207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_462
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 201
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4523d28f7015a41bf28ff757accb03
+      internalID: 391961647914844958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_463
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 201
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39904eaad0364f449db6cf48960b2f1
+      internalID: -5715267080047720980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_474
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 201
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b876dc2cf67fc48b0d03510121d884
+      internalID: -645243709634667738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_475
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 201
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec38b4427eaa33b40b2ee83a8cdb30d2
+      internalID: -2743852963898074211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_477
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 201
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee2126222209db49956323a1dc6aefb
+      internalID: -4691353387159763351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_478
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 201
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeda9ae180ef704cbb77848bebe7a36
+      internalID: 7560041266372661590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_483
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3660fb8467618498b6a0f3ae46077b
+      internalID: 6743070218142467034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_484
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac92862139b2384cb7e9d631daa4535
+      internalID: -5688700235908673132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_492
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5831458a65baac7429886f41bd3bd1ac
+      internalID: -2869585312448498539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_493
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9764f8fc5573f4c8e2c2e5aed17677
+      internalID: 3165908078898379123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_504
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2fe7ba158e60a4aa3d3fbcedac1b37
+      internalID: -3073897075356435318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_505
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4597228617a6974e9b21708a3af6d4a
+      internalID: 5281318991138876713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_507
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311b48921bae1d649854788f62319317
+      internalID: -5427639524269425885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_508
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2aef26734fe454ea8e46ceeb0481e9
+      internalID: 821690192031961617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_513
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee08cd7679bc9040b56b0651c554ed1
+      internalID: 4187488239160464591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_514
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea58dfe780c0c4147957b1d2d92734d1
+      internalID: 1330764609038322699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_522
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f3a4d59362ec745b145f4810066d98
+      internalID: -4641583381382311993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_523
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b67058aa8bee75489ba71fdc590c67f
+      internalID: 2930613729009802499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_534
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e1f2404f7603c468ee1441d7b264ef
+      internalID: -5920589138372285709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_535
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe48c350006bc54d81aa174b8e20b4f
+      internalID: 6627720746514019293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_537
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b41c0547c936e6469de920d9b44775a
+      internalID: -5420405053129253953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_538
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54febab3871040e4cb90160919da27a5
+      internalID: -5687404667750979191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_543
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 126
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccbdee4a5ca99148aa3a8204e4523cb
+      internalID: -2851820957916826011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_544
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 126
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942b83e67ee46514c832739053e51b92
+      internalID: 6063712058759645354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_552
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 126
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afad6201fb3f8bf468e92b7b987b0bd8
+      internalID: 7221165636359009582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_553
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 126
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edffd565f16668e468b95aa13a5c118c
+      internalID: -8422444527991874260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_564
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 126
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb72297410ead7f47a852e9444e02c58
+      internalID: 1538584406222231437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_565
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 126
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07a36b8f96852b4582d6fa003bcb75a
+      internalID: -5875488964484076479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_567
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 126
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04025a0482ec534db0e74f85487948c
+      internalID: 3089876297340746893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_568
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 126
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ede5ff1bf12554fb6ba0ab8a2d9743
+      internalID: -4713283742909845916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_573
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c4fc315360ff543abadbc5517a76c5
+      internalID: 2869175936000265995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_574
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f9d13efa2176b4ba679408d5bb29e1
+      internalID: 6031882452968156389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_582
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110eac326fc6dad418b1ac4e6acd3994
+      internalID: 7194825625207129716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_583
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fe63193369eaf439c221916295cddd
+      internalID: 3642086210136544462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_594
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ccce313bb2e7746a73bb9debecf707
+      internalID: 9126603613448634855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_595
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d28b89ab01dcb49a56301b351115d5
+      internalID: -8707797005866934803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_597
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f0b22cd0a5a5241b6a2a66bac01c1a
+      internalID: -2756220860156436564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_598
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd6846a20738ff44aba1bf6d903edbf
+      internalID: 5686541556992216342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_603
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f4344909418a740840a6654b4c6907
+      internalID: -6121673123104192198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_604
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69e44876dc9ede4c8ebe5d51bea3853
+      internalID: -6886306955374200844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_612
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0801ea64939c7fa46b5979c2c80a6e9a
+      internalID: 386488465788540178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_613
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa13d2720373c2499100546ba29a828
+      internalID: 3969635149340577280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_624
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b03179b1bf32c49a981acfcbda14e2
+      internalID: -5806015388226140942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_625
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5b1293d7d6ee24a84ef3f18fd50a55
+      internalID: 7382870783301330140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_627
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4eb6d11a1250a44927e88bd998c923
+      internalID: 1158610629214312412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_628
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116693807a73b0e4589ff4f07c4b3540
+      internalID: -7254027808992605939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_633
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23116e4cda99c04592ba3a128f8d903
+      internalID: 3844945242969951633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_634
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376a3d3a03991b4db9f04e2a9dc7a51
+      internalID: -7572914740558157280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_642
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fb1a4cd11748b4da525f0cb56078e1
+      internalID: -1374393817418501978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_643
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca275ed391baa694c8c9261820b16fb7
+      internalID: 8762808172807328751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_654
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbebed8bf10fa149aa972e7f2e3acd8
+      internalID: 6516775661508728482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_655
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e987aa13cdc760d48978615e60c0de54
+      internalID: 4210861270085642444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_657
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e96e47e3585b4e41828295da4bdbd03
+      internalID: -5158345964582353948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_658
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7db576d2cb9d54ebf20b1efc75cf32
+      internalID: -5780433531236572034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_663
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8e2061f8780c941b699b280ab4bbf3
+      internalID: 1899587887960826183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_664
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e5599728eeefc45b7f9252e8240629
+      internalID: 8609771575881802936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_672
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3a7f54c25db643babf084aa5d6a07
+      internalID: 5852095278905385226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_673
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9d6056ed5c57642a1422fe3fff6745
+      internalID: -8227163169149822892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_684
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bfa2db835edd640aef2a131da8d847
+      internalID: -6877251930831812814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_685
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1b16ce3243dfb4ab5fe3c015ee155f
+      internalID: 4303936263169936270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_687
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd51428a85c86d4495b17515d3b7f99
+      internalID: 6526335153987641853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_688
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc2fee2848f12042b56fedcc4fcf03d
+      internalID: -3300911738520849270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_693
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bd7f21457cfcb4089f9f952b2523f8
+      internalID: -4742371187074189776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_694
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99da6ac6569b7d94a9c1232d4d48dd2a
+      internalID: -6044616501062242378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_702
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c19f588eef5c5498cf55f20ab8bf2f
+      internalID: -5808890644188650401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_703
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49119f544e4c19344a75ed6184b6e936
+      internalID: 7892534821599132946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_714
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e36738ce971c14e84fd17493b066d2
+      internalID: 523825805995999157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_715
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b571015c1116e104195bffe1e1b999bb
+      internalID: 1176866904396144165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_717
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0053f9b5126663b40ba3fee00a801503
+      internalID: -7471168745270155427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Amp Plains_718
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32901bafc873f63408230cb85f70d0a1
+      internalID: -1355054276199881500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 943dbde40680a464b8c876151268fb5c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
